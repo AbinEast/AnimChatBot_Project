@@ -1,0 +1,12 @@
+flask[async]
+openai
+edge-tts
+pydub
+markdown2
+TTS
+--find-links https://download.pytorch.org/whl/torch/
+torch==2.3.0+cu121
+--find-links https://download.pytorch.org/whl/torchvision/
+torchvision==0.18.0+cu121
+torchaudio==2.3.0
+
